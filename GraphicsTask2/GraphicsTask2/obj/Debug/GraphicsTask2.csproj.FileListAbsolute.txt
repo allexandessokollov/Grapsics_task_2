@@ -1,0 +1,10 @@
+C:\Users\gushb\source\repos\GraphicsTask2\GraphicsTask2\bin\Debug\GraphicsTask2.exe.config
+C:\Users\gushb\source\repos\GraphicsTask2\GraphicsTask2\bin\Debug\GraphicsTask2.exe
+C:\Users\gushb\source\repos\GraphicsTask2\GraphicsTask2\bin\Debug\GraphicsTask2.pdb
+C:\Users\gushb\source\repos\GraphicsTask2\GraphicsTask2\obj\Debug\GraphicsTask2.csprojAssemblyReference.cache
+C:\Users\gushb\source\repos\GraphicsTask2\GraphicsTask2\obj\Debug\GraphicsTask2.Form1.resources
+C:\Users\gushb\source\repos\GraphicsTask2\GraphicsTask2\obj\Debug\GraphicsTask2.Properties.Resources.resources
+C:\Users\gushb\source\repos\GraphicsTask2\GraphicsTask2\obj\Debug\GraphicsTask2.csproj.GenerateResource.cache
+C:\Users\gushb\source\repos\GraphicsTask2\GraphicsTask2\obj\Debug\GraphicsTask2.csproj.CoreCompileInputs.cache
+C:\Users\gushb\source\repos\GraphicsTask2\GraphicsTask2\obj\Debug\GraphicsTask2.exe
+C:\Users\gushb\source\repos\GraphicsTask2\GraphicsTask2\obj\Debug\GraphicsTask2.pdb
